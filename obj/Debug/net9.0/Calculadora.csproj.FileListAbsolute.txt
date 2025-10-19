@@ -1,0 +1,14 @@
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\bin\Debug\net9.0\Calculadora.exe
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\bin\Debug\net9.0\Calculadora.deps.json
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\bin\Debug\net9.0\Calculadora.runtimeconfig.json
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\bin\Debug\net9.0\Calculadora.dll
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\bin\Debug\net9.0\Calculadora.pdb
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\obj\Debug\net9.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\obj\Debug\net9.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\obj\Debug\net9.0\Calculadora.AssemblyInfo.cs
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\obj\Debug\net9.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\obj\Debug\net9.0\Calculadora.dll
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\obj\Debug\net9.0\refint\Calculadora.dll
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\obj\Debug\net9.0\Calculadora.pdb
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\obj\Debug\net9.0\Calculadora.genruntimeconfig.cache
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\obj\Debug\net9.0\ref\Calculadora.dll
