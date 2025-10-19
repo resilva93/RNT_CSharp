@@ -12,3 +12,4 @@ C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\obj\Deb
 C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\obj\Debug\net9.0\Calculadora.pdb
 C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\obj\Debug\net9.0\Calculadora.genruntimeconfig.cache
 C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\obj\Debug\net9.0\ref\Calculadora.dll
+C:\Users\repes\OneDrive\Documentos\Desenv_RNT\CSharp\BaltaIO\Calculadora\obj\Debug\net9.0\Calculadora.sourcelink.json
